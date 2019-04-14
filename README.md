@@ -3,8 +3,8 @@
 ************************************************************************************************************************************************
 1. Download the MURA Dataset from Stanford ML Group website - https://cs.stanford.edu/group/mlgroup/MURA-v1.1.zip
 2. Unzip the dataset
-3. Following libraries are required, kindly check it with command 'pip3 list' or 'pip list' or 'conda list' (if conda is installed):-
-	- TensorFlow-gpu
+3. Following libraries are required, kindly check if it's installed:-
+	- TensorFlow
 	- Keras
 	- Scikit-learn
 	- Shutil (comes inbuilt)
