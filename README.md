@@ -1,4 +1,4 @@
-# BoNet
+# BoNet - A Bone Abnormality Detector
 
 ************************************************************************************************************************************************
 1. Download the MURA Dataset from Stanford ML Group website - https://cs.stanford.edu/group/mlgroup/MURA-v1.1.zip
