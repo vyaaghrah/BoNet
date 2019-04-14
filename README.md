@@ -8,7 +8,7 @@
 	- Keras
 	- Scikit-learn
 	- Shutil (comes inbuilt)
-	- Pillow (fork of PIL)
+	- Pillow
 	- OpenCV
 	- Numpy
 	- Pandas
